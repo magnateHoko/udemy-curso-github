@@ -7,3 +7,4 @@
 * Linterna Verde
 * Robin
 * Volcán Negro
+* Paco el de los palotes
